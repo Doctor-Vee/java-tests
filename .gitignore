@@ -33,3 +33,4 @@ vela-portal.json
 /config/.env
 /config/vela-portal.json
 !/config/*.example
+/out/production/java tests/
